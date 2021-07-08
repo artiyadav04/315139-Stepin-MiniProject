@@ -1,7 +1,0 @@
-git clone repo_path
-
-git status
-git add .   // will add everything to staging
-git add filename 
-git commit -m "message"
-git push
