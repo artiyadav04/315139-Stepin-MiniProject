@@ -9,7 +9,8 @@ Thus, this project will be a help the owner of the Medical Store to get rid of t
 
 ## Cost and Features
 
-### Cost: The proposed project "Medical Store Management System" is developed with a low costs and is designed using best easy to understand software.
+### Cost: 
+- The proposed project "Medical Store Management System" is developed with a low costs and is designed using best easy to understand software.
 
 ### Features:
 - Can view, insert, delete, update and search records using a single platform.
@@ -26,7 +27,11 @@ It will help in adding,deleting,updating and searching of suppliers, customers a
   
 ## Work Flow
 
+![Work Flow of Medical Store Management System](https://user-images.githubusercontent.com/80507579/124964945-3748a000-e03f-11eb-82fe-99f5f52e949c.png)
+
 ## SWOT Analysis
+
+![SWOT (1)](https://user-images.githubusercontent.com/80507579/124964901-2b5cde00-e03f-11eb-8764-f0407a3c3b7c.png)
 
 ## 4W's and 1'H
 
