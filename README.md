@@ -1,9 +1,9 @@
 # 315139-Stepin-MiniProject
 ## Medical Store Management System
 
-|Build | Unity | Git Inspector | cppcheck |
-|--- |--- |--- |---|
-|[![C/C++ CI - Build Status](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml) |
+|Build     |    cppcheck |
+|--------- |-------------|
+|[![C/C++ CI - Build Status](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/cpp_check.yml) |
 
 ## Folder Structure
 
@@ -18,9 +18,9 @@
 
 ## Contribution List
 
-| SF ID | Name | Features | Issues raised | Issues resolved | Number of test cases | Test cases passed |
-|--- |--- |--- |--- |--- |--- |--- |
-| 315139 | Devangi Singh | listed below in Features table |  |  |  |  |
+| SF ID  | Name          | Features                       | Number of test cases |
+|---     |---            |---                             |--------------------- |
+| 315139 | Devangi Singh | listed below in Features table |                      |
 
 ## Features Table 
 
