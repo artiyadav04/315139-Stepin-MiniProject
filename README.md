@@ -1,9 +1,9 @@
 # 315139-Stepin-MiniProject
 ## Medical Store Management System
 
-|Build     |    cppcheck |
-|--------- |-------------|
-|[![C/C++ CI - Build Status](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/cpp_check.yml) |
+|Build     |    cppcheck | Git- Inspector|
+|--------- |-------------|-------------- |
+|[![C/C++ CI - Build Status](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/main.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/cpp_check.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/cpp_check.yml) | [![Contribution Check - Git Inspector](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/git-inspector.yml/badge.svg)](https://github.com/devangisingh/315139-Stepin-MiniProject/actions/workflows/git-inspector.yml) |
 
 ## Folder Structure
 
