@@ -9,6 +9,7 @@
 *.obj
 *.elf
 *.dat
+*.txt
 
 # Linker output
 *.ilk
